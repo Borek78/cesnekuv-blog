@@ -7,7 +7,9 @@ Title: Česnekův blog o léčení se pomocí stravy
 
 Vítejte na mém blogu.<br><br>
 
-Chtěl jsem napsat email kamarádovi. Má chronickou boreliózu a vypadly mu tři zuby. Zuby by mu ale padat neměly, je mu jen něco přes čtyřicet. Z emailu se ale postupně stal tento blog. <br><br>
+Česnekův blog je o léčbě pomocí stravy.<br><br>
+
+Chtěl jsem napsat email kamarádovi. Má chronickou boreliózu a vypadly mu tři zuby. Zuby by mu ale padat neměly, je mu jen něco přes čtyřicet. Od emailu jsem nakonec upustil a začal jsem psát tento blog. <br><br>
 
 V roce 2010 jsem byl psychicky i fyzicky v dezolátním stavu. Spal jsem i šestnáct hodin denně a zbytek dne jsem proležel. Každou noc jsem se několikrát vzbudil naprosto zpocený. V létě jsem snadno dostal úžeh, v zimě mi byla neustále zima. Měl jsem silné bolesti hlavy a chronický zánět močových cest... Výraz »Únavový syndrom« byl pro označení mých problémů <span class="eufemismus">eufemismus.</span>
 
@@ -18,7 +20,7 @@ Pak jsem se jednoho dne ráno vzbudil a uvařil jsem si snídani. Rád jsem ke s
 Šel jsem si koupit moje oblíbené koláče a dopotácel jsem se zpět na lavičku. Pořád jsem si ale ještě nebyl jistý, jestli neomdlím. Začal jsem jíst koláče. Když jsem je jedl, nabyl jsem silný dojem, že ty moje problémy musí souviset s jídlem. V mojí mysli se objevila tato myšlenka:
 
 <div class="citace">
-To přece není možný. Vždyť je to teprve hodinu a půl, co jsem snědl opravdu velkou misku ovesných vloček a jogurtem. Těma vločkama jsem se vysloveně nacpal. A už mám opět hlad. Moje zdravotní problémy musí souviset s tím, co jím.
+To přece není možný. Vždyť je to teprve hodinu a půl, co jsem snědl opravdu velkou misku ovesných vloček s jogurtem. Těma vločkama jsem se vysloveně nacpal. A už mám opět hlad. Moje zdravotní problémy musí souviset s tím, co jím.
 </div>
 
 To byl začátek mého uzdravování.<br><br>
@@ -38,9 +40,9 @@ A opět se stalo něco pozitivního: zmizely moje roky trvající záněty močo
 Obiloviny i pseudoobiloviny obsahují velké množtví proteinu (cca 12%). Lidé, kteří je ze stravy vypustí, musí protein získat někde jinde, a proto musí jíst více masa, vajec a ořechů. To byl i můj případ.
 
 <div class="citace">
-Lidé byli v průběhu evoluce lovci a sběrači, nejedli obiloviny ani pseudobiloviny. První člověk, Homo Habilis, se před dvěma a půl milionu let naučil tvořit kamenné nástroje, aby...... Až v neolitu, někdy před  12 tisíci lety, začali lidé konzumovat pšenici a další obiloviny.<br><br>
+První lidé chodili po Zemi před více než dvěma miliony let. Živili se jako lovci a sběrači. Až v neolitu, někdy před 12 tisíci lety, začali lidé konzumovat pšenici a další obiloviny.<br><br>
 
-Z pohledu evoluce obiloviny a pseudobiloviny konzumujeme stále velmi krátce. To je jeden z důvodů, proč mnoha lidem, včetně mě, jejich vynechání prospělo.
+Z pohledu evoluce konzumujeme obiloviny a pseudobiloviny stále velmi krátce. To je jeden z důvodů, proč mnoha lidem, včetně mě, jejich vynechání prospělo.
 
 </div>
 
@@ -49,7 +51,7 @@ Z pohledu evoluce obiloviny a pseudobiloviny konzumujeme stále velmi krátce. T
 Moje zdraví se v průběhu následujících let postupně zlepšovalo. Všechny moje symptomy pomalu mizely. Změny, které se s mým tělem děly, mě často překvapovaly. Pomocí následujího seznamu se pokusím celý proces mého uzdravování popsat:
 
 <ul>
-<li> prvních několik let jsem jedl především potraviny, které jsem předešlé roky konzumoval jen málo: máslo, sádlo, játra, vejce, maso, zelenina. </li>
+<li> prvních několik let jsem jedl především potraviny, které jsem předešlé roky konzumoval jen málo: máslo, sádlo, játra, vejce, maso a zelenina. </li>
 
 <li>z mého jídelníčku jsem vypustil i luštěniny. Těch jsem ale stejně moc nejedl, takže to problém nebyl. </li>
 
@@ -105,7 +107,7 @@ Po několika letch jsem zjistil, že pro mě vůbec není problém nejíst odpol
 V průběhu těch prvních let, kdy jsem se uzdravoval, jsem intenzivně studoval výživu. Přečetl jsem mnoho knih, blogů a viděl tisíce videí o léčení, především pak o léčení pomocí stravy. A všiml jsem si, že:
 
 <ul>
-<li> je možné se léčit pomocí stravy; není to možné vždy, ale někdy ano. Dokonce i Buddha mluvil o tom, že když upravíte stravu, je možné se vyléčit. Část jeho rozpravy <a href="tri-typy-pacientu.html">Tři typy pacientů</a> jsem přeložil do češtiny, najdete ji na stránce <a href="blog.html">BLOG.</a>. </li>
+<li> je možné se léčit pomocí stravy; není to možné vždy, ale někdy ano. Dokonce i Buddha mluvil o tom, že když upravíte stravu, je možné se vyléčit. Část jeho rozpravy <a href="tri-typy-pacientu.html">Tři typy pacientů</a> jsem přeložil do češtiny, najdete ji na stránce <a href="blog.html">BLOG.</a> </li>
 <li>léčení pomocí stravy je velmi individuální věc. Někteří lidé se vyléčí, když – podobně jako já – vyřadí z jídelníčku obiloviny. Další skupina lidí se vyléči ze stejné nemoci tak, že do svého jídelníčku zařadí velké monožství syrových potravin (říká se tomu Raw Food).</li>
 
 <li>vegánství ani vegetariánství nejsou nutně etické způsoby stravování. Často tito lidé totiž zapomínájí sami na sebe a vegánstvím nebo vegetariánstvím si ubližují. Stalo se to mě a stalo se to i mnoha dalším lidem. </li>
@@ -114,7 +116,7 @@ V průběhu těch prvních let, kdy jsem se uzdravoval, jsem intenzivně studova
 
 <li>ne všechno, co mi chutná, je pro mě dobré. Když jsem byl opravdu hodně nemocný, rád jsem si dal třeba makovec nebo banán: chutnalo mi to. Po konzumaci těchto potravin jsem ale nikdy necítil, že „to bylo přesně to, co jsem potřeboval“.</li>
 
-<li> o výživě existuje mnoho skvělých knih. Mně osobně velmi výrazně ovlivnily knihy Nourishing Traditions od Sally Fallon a GAPS Protocol od Dr. Natashy Cambell McBride. Obě tyto knihy vyšly i v češtině pod názvy <a href="">Vyživující tradice</a> a <a href="">GAPS Protokol.</a> </li>
+<li> o výživě existuje mnoho skvělých knih. Výrazně mě ovlivnily knihy Nourishing Traditions od Sally Fallon a GAPS Protocol od Dr. Natashy Cambell McBride. Obě tyto knihy vyšly i v češtině pod názvy <a href="http://kosimesnadno.cz/index.php?route=product/product&product_id=99">Vyživující tradice</a> a <a href="https://www.janadellplotnarkova.cz/produkt/gaps-terapeuticky-protokol/">GAPS: terapeutický protokol.</a> </li>
 
 <li> především kniha o GAPS na mě měla velký vliv. V souvislosti s GAPS se používá výraz „GAPS dieta“, který je ale velmi nepřesný a zavádějící. GAPS není soubor pravidel, který by se měl dodržovat. GAPS je pouze soubor tipů a návodů a každý si  můsí najít svoji cestu, jakým způsobem je aplikovat. Nemusí to být vůbec snadné. </li>
 
@@ -131,11 +133,13 @@ A jak to šlo dál?<br><br>
 
 ### Odkazy
 
-Chtěl bych zmínit především [FB skupinu GAPS dieta.]() Je skvělá. Jejími členy je mnoho chytrých a vzdělaných lidí, kteří mají zkušenosti s léčbou a regenerací lidského těla pomocí stravy.<br><br>
+Chtěl bych zmínit především [FB skupinu GAPS dieta.](https://www.facebook.com/groups/2004790799796793) Je skvělá. Jejími členy je mnoho chytrých a vzdělaných lidí, kteří mají zkušenosti s léčbou a regenerací lidského těla pomocí stravy.<br><br>
 
-Vedu si také FB stránku [Česnekova cesta z hlubin špatného zdraví](). Ale moc se jí nevěnuji.<br><br>
+Vedu si také FB stránku [GAPS dieta - Česnekova cesta z hlubin špatného zdraví](https://www.facebook.com/gaspdieta). <br><br>
 
-Mějte se všichni hezky a<br>
+Mějte se hezky a<br>
 ať jste všichni zdraví.<br><br>
 
 Česnek
+
+P.S. Téměř žádná práva vyhrazena. Viz. info o licenci v patičce.

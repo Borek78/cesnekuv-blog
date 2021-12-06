@@ -11,7 +11,7 @@ layout: default
 <div class="no-link-underline" markdown="1" >
 <!--### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>-->
 
-### [Tři typy pacientů](tri-typy-pacientu.html)
+### [Buddhova rozprava o Třech typech pacientů](tri-typy-pacientu.html)
 
 ### [Proč nechodit na psychoterapii](proc-nechodit-na-psychoterapii.html)
 
