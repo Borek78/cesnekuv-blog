@@ -25,14 +25,13 @@ V některých případech se pacient zotaví jen tehdy, když má dostatek vhodn
 .<br><br><br>
 
 <u>Licence:</u><br>
-Překlad do angličtiny: Bhikkhu Sujato, suttacentral.net<br>
+Překlad do angličtiny:<a href="https://suttacentral.net/an3.22/en/sujato?layout=plain&reference=none&notes=asterisk&highlight=false&script=latin"> Ajahn Sujato, Suttacentral.net</a><br>
 Překlad do češtiny: Česnek<br>
-Licence: CC BY 4.0 Mezinárodní<br>
-
-...
+Licence k překladu: <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a> <br>
 
 </div>
 
+<a></a>
 Pokud se angažujete a mluvíte veřejně o tom, že je možné se léčit pomocí stravy, může se vám stát, že vám někdo bude vyhrožovat, že vás dá k soudu. Stává se to. <br><br>
 
-Pokud by na takový soud došlo, můžete se hájit tím, že jste buddhisti [ale jen pokud opravdu buddhisti jste, lhát se nemá:)] a že součástí vašeho vyznání je možnost léčit se pomocí úpravy stravy. Zní to trochu jako vtip, ale fungovat by to mohlo:)
+Pokud by na takový soud došlo, můžete se hájit tím, že jste buddisté a že součástí vašeho vyznání je možnost léčit se pomocí úpravy stravy. Zní to trochu jako vtip, ale fungovat by to mohlo:)
