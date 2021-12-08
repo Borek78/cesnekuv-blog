@@ -5,7 +5,7 @@ title: Buddhova rozprava O třech typech pacientů
 
 # Buddhova rozprava: Tři typy pacientů
 
-O možnosti léčit se pomocí stravy mluvil i Buddha v rozpravě o Třech typech pacientů. Tuto rozpravu najdete ve čtvrté sbírce Buddhových rozprav, které se říká Anguttara nikája (AN). Rozprava „O třech typech pacientů“ je ve třetí kapitole (Kapitole tří) pod číslem 22 (3.22). <br><br>
+O možnosti léčit se pomocí stravy mluvil i Buddha v rozpravě „Tři typy pacientů“. Tuto rozpravu najdete ve čtvrté sbírce Buddhových rozprav, které se říká Anguttara nikája (AN). Rozprava „Tři typy pacientů“ je ve třetí kapitole (Kapitole tří) pod číslem 22 (3.22). <br><br>
 
 Toto je překlad první části této rozpravy.
 
@@ -34,4 +34,4 @@ Licence k překladu: <a href="https://creativecommons.org/licenses/by/4.0/deed.c
 <a></a>
 Pokud se angažujete a mluvíte veřejně o tom, že je možné se léčit pomocí stravy, může se vám stát, že vám někdo bude vyhrožovat, že vás dá k soudu. Stává se to. <br><br>
 
-Pokud by na takový soud došlo, můžete se hájit tím, že jste buddisté a že součástí vašeho vyznání je možnost léčit se pomocí úpravy stravy. Zní to trochu jako vtip, ale fungovat by to mohlo:)
+Pokud by na takový soud došlo, můžete se hájit tím, že jste buddisté a že součástí vašeho vyznání je možnost léčit se pomocí úpravy stravy. Zní to trochu jako vtip, ale fungovat by to mohlo. Určitě ale nechci, aby se někdo takto hájil lživě: tímto způsobem se může hájit pouze ten, kdo se za buddhistu považuje.

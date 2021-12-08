@@ -140,6 +140,6 @@ Vedu si také FB stránku [GAPS dieta - Česnekova cesta z hlubin špatného zdr
 Mějte se hezky a<br>
 ať jste všichni zdraví.<br><br>
 
-Česnek
+Česnek<br><br>
 
 P.S. Téměř žádná práva vyhrazena. Viz. info o licenci v patičce.
